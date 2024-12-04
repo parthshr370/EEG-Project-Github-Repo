@@ -1,0 +1,19 @@
+- **IBEG, IEND**: These could indicate the Beginning and End of an Interval, possibly marking the start and end of data recording sessions or specific experimental conditions.
+- **arsl**: This might stand for a specific type of stimulus or task phase, though the exact meaning would depend on the context provided in the experiment documentation.
+- **base, bend**: These could be related to baseline (‘base’) periods or end (‘bend’) periods during the EEG recording.
+- **boundary**: Typically used to mark a discontinuity or a break in the EEG data, such as a pause between experimental conditions or sessions.
+- **cate**: Short for category, possibly referring to different types of experimental conditions or categories of stimuli.
+- **clic**: Likely refers to moments when participants made a mouse click, which might be used to indicate a response or selection during the experiment.
+- **dmns**: This might refer to "dimensions," potentially related to dimensions of stimuli or responses, but clarification from experiment documentation would be needed.
+- **fixL**: This might denote a fixation light or a left fixation, possibly used in tasks requiring participants to focus on a specific point.
+- **fmrt**: Could possibly relate to functional MRI tasks, if the EEG data is being used alongside fMRI studies.
+- **lkng**: Likely refers to "looking" or gaze direction during tasks that monitor where participants are looking.
+- **puse**: Could be a misspelling or abbreviation for "pause," marking intervals where participants are instructed to rest or wait.
+- **qdon**: Might stand for "question done" or the end of a task or trial phase related to questions.
+- **quiz**: Marks periods during which participants are engaged in a quiz or cognitive testing scenario.
+- **relv**: Could be shorthand for "relevant," potentially tagging data relevant to specific conditions or stimuli.
+- **rsrt**: This might represent "restart," possibly used to denote the point at which an experimental condition is restarted or resumed.
+- **stm**: Likely stands for "stimulus," marking the onset or presence of a stimulus.
+- **stop**: Marks the stop of a session, task, or stimulus presentation.
+- **trno**: Could mean "trial number," used to label different trials within an experimental session.
+- **vlnc**: Likely shorthand for "valence," which in emotion research refers to the positive or negative quality of an emotional stimulus.
